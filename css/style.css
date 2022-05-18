@@ -833,7 +833,7 @@ img {
 
 .support-text__title {
   font-size: 70px;
-  color: #3ACE5A;
+  color: #32B538;
   font-weight: bold;
 }
 
@@ -884,7 +884,7 @@ img {
 .support-form__button {
   border-radius: 16px;
   border: none;
-  background-color: #3ACE5A;
+  background-color: #32B538;
   font-size: 18px;
   padding: 16px;
   width: 300px;
@@ -961,7 +961,7 @@ img {
   text-align: center;
   border-radius: 16px;
   border: none;
-  background-color: #3ACE5A;
+  background-color: #32B538;
   font-size: 18px;
   padding: 16px;
   width: 250px;
@@ -976,7 +976,7 @@ img {
 }
 
 .checkmark {
-  stroke: #3ACE5A;
+  stroke: #32B538;
   stroke-dashoffset: 600.74853515625;
   stroke-dasharray: 600.74853515625;
   -webkit-animation: dash 2s ease-out forwards infinite;
